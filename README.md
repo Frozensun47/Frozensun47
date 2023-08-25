@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Face Deidentification and Arbitrary Shaped Scene Text Detection.<br>👯 I’m looking to collaborate on Anything related to Biology-Medical stuffs, Trading and Machine Learning.<br>🤝 I’m looking for help with Algorithmic Trading with applied Deep Learning and Reinforcement Learning.<br>🌱 I’m currently learning Algorithms and Data Structures .<br>💬 Ask me about life xD and Image related Deep Learning doubts ^ ^ <br><br>
+🔭 I’m currently working on **Face Deidentification** and **Arbitrary Shaped Scene Text Detection**.<br>👯 I’m looking to collaborate on Anything related to **Biology-Medical stuffs**, **Trading** and **Machine Learning**.<br>🤝 I’m looking for help with **Algorithmic Trading** with applied **Deep Learning** and **Reinforcement Learning**.<br>🌱 I’m currently learning Algorithms and Data Structures .<br>💬 Ask me about life xD and Image related Deep Learning doubts ^ ^ <br><br>
 
 
 ## 🌐 Socials:
