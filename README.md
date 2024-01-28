@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Hair style from portrait images**,**Annotation tool for google-street view** and **Algorithmic Trading Models**.<br>👯 I’m looking to collaborate on Anything related to a combination of **Biology-Medical**, **Trading** and **Machine Learning**.<br>🤝 I’m looking for help with **Algorithmic Trading** with applied **Deep Learning** and **Reinforcement Learning**.<br>💬 Ask me about life xD and Image related Deep Learning doubts ^ ^ <br><br>
+🔭 I’m currently working on **'Changing Hair style from portrait images'**,**'Annotation tool for google-street view'** and **'Algorithmic Trading Models'**.<br>👯 I’m looking to collaborate on Anything related to a combination of **Biology-Medical**, **Trading** and **Machine Learning**.<br>🤝 I’m looking for help with **Algorithmic Trading** with applied **Deep Learning** and **Reinforcement Learning**.<br>💬 Ask me about life xD and Image related Deep Learning doubts ^ ^ <br><br>
 
 
 
