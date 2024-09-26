@@ -1,8 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Machine Learning Engineer with hands-on experience in Computer Vision, Generative AI, and Algorithmic Trading. I specialize in building cutting-edge solutions, from virtual try-on applications to text detection in complex environments.<br>
-👯 I’m looking to collaborate on projects that intersect AI, Machine Learning, and Biological Research, particularly in the fields of medical applications and computational neuroscience.<br>
-🤝 I’m exploring opportunities to leverage Reinforcement Learning and Deep Learning in Algorithmic Trading, and I'm open to discussing innovative AI solutions for real-world challenges.<br>
-💬 Feel free to reach out if you’d like to discuss AI-driven applications, ML research, or generative models—I'm always excited to connect with like-minded professionals! <br><br>
+🔭 I am a Machine Learning Engineer with practical experience in Computer Vision and generative AI, including Stable Diffusion and LLMs. I am passionate about working on diverse projects, such as stock price prediction, customer segmentation, hairstyle transfer, and LLM-based chatbots. <br> 👯 I am eager to collaborate on projects in generative AI, particularly those utilizing Stable Diffusion, LLMs, and transformers. <br> 💬 If you're interested in discussing AI-driven applications, ML research, or generative models, feel free to reach out—I'm always excited to connect with fellow professionals!<br><br>
 
 
 
