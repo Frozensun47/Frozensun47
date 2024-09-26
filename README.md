@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on **'Changing Hair style from portrait images'**,**'Annotation tool for google-street view'** and **'Algorithmic Trading Models'**.<br>👯 I’m looking to collaborate on Anything related to a combination of **Biology-Medical**, **Trading** and **Machine Learning**.<br>🤝 I’m looking for help with **Algorithmic Trading** with applied **Deep Learning** and **Reinforcement Learning**.<br>💬 Ask me about life xD and Image related Deep Learning doubts ^ ^ <br><br>
+🔭 I’m a Machine Learning Engineer with hands-on experience in Computer Vision, Generative AI, and Algorithmic Trading. I specialize in building cutting-edge solutions, from virtual try-on applications to text detection in complex environments.<br>
+👯 I’m looking to collaborate on projects that intersect AI, Machine Learning, and Biological Research, particularly in the fields of medical applications and computational neuroscience.<br>
+🤝 I’m exploring opportunities to leverage Reinforcement Learning and Deep Learning in Algorithmic Trading, and I'm open to discussing innovative AI solutions for real-world challenges.<br>
+💬 Feel free to reach out if you’d like to discuss AI-driven applications, ML research, or generative models—I'm always excited to connect with like-minded professionals! <br><br>
 
 
 
