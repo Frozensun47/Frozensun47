@@ -1,8 +1,3 @@
-# 💫 About Me:
-🔭 I am a Machine Learning Engineer with practical experience in Computer Vision and generative AI, including Stable Diffusion and LLMs. I am passionate about working on diverse projects, such as stock price prediction, customer segmentation, hairstyle transfer, and LLM-based chatbots. <br> 👯 I am eager to collaborate on projects in generative AI, particularly those utilizing Stable Diffusion, LLMs, and transformers. <br> 💬 If you're interested in discussing AI-driven applications, ML research, or generative models, feel free to reach out—I'm always excited to connect with fellow professionals!<br><br>
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100054238064238) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/still_sagar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-srivastava-8baa231bb) 
 
