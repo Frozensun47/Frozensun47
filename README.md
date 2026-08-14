@@ -151,16 +151,16 @@ models              ░                               35
 ## 📈 Activity
 
 <p align="center">
-  <img src="./assets/activity.svg" width="98%" alt="Contribution activity" />
+  <img src="./assets/activity.svg?v=202608140958" width="98%" alt="Contribution activity" />
 </p>
 
 <p align="center">
-  <img src="./assets/stats.svg" height="220" alt="GitHub stats" />
-  <img src="./assets/streak.svg" height="220" alt="Contribution streak" />
+  <img src="./assets/stats.svg?v=202608140958" height="220" alt="GitHub stats" />
+  <img src="./assets/streak.svg?v=202608140958" height="220" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="./assets/langs.svg" height="180" alt="Most used languages" />
+  <img src="./assets/langs.svg?v=202608140958" height="180" alt="Most used languages" />
 </p>
 
 <p align="center"><sub>

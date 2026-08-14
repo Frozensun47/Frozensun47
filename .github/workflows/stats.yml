@@ -26,10 +26,17 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
         run: python3 scripts/gen_stats.py
 
+      - name: Bust the image-proxy cache
+        # GitHub serves README images through camo, which caches by URL. Without
+        # a changing query string the refreshed cards would never be shown.
+        run: |
+          STAMP=$(date -u +%Y%m%d)
+          sed -i -E "s#(\./assets/[a-z]+\.svg)(\?v=[0-9]+)?#\1?v=${STAMP}#g" README.md
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/
+          git add assets/ README.md
           git diff --staged --quiet || git commit -m "chore: refresh profile stats [skip ci]"
           git push
