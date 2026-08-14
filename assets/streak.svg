@@ -1,0 +1,18 @@
+<svg width="480" height="220" viewBox="0 0 480 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contribution streak for Sagar Srivastava">
+<style>
+  :root { --bg:#0d1117; --bd:#30363d; --fg:#c9d1d9; --hot:#f78166; --dim:#8b949e; }
+  .big { font:700 28px 'Segoe UI',Ubuntu,sans-serif; fill:var(--fg); text-anchor:middle; }
+  .big.hot { font-size:32px; fill:var(--hot); }
+  .lbl { font:600 13px 'Segoe UI',Ubuntu,sans-serif; fill:var(--fg); text-anchor:middle; }
+  .lbl.hotlbl { fill:var(--hot); }
+  .sub { font:400 10px 'Segoe UI',Ubuntu,sans-serif; fill:var(--dim); text-anchor:middle; }
+  .ring { stroke-dasharray:238.8; stroke-dashoffset:0; animation:g 1.5s ease-out forwards; }
+  @keyframes g { from { stroke-dashoffset:238.8; } to { stroke-dashoffset:0; } }
+</style>
+<rect x=".5" y=".5" width="479" height="219" rx="6" fill="var(--bg)" stroke="var(--bd)"/>
+<line x1="160" y1="42" x2="160" y2="178" stroke="var(--bd)"/>
+<line x1="320" y1="42" x2="320" y2="178" stroke="var(--bd)"/>
+<circle cx="240" cy="72" r="38" fill="none" stroke="var(--hot)" stroke-width="4"
+        stroke-linecap="round" class="ring" transform="rotate(-90 240 72)" opacity=".85"/>
+<g transform="translate(0,20)"><g transform="translate(78,0)" class="col"><text y="70" class="big">7.2k</text><text y="96" class="lbl">Total Contributions</text><text y="118" class="sub">Dec 16, 2021 – Present</text></g><g transform="translate(240,0)" class="col"><text y="70" class="big hot">5</text><text y="96" class="lbl hotlbl">Current Streak</text><text y="118" class="sub">Aug 10, 2026 – Aug 14, 2026</text></g><g transform="translate(402,0)" class="col"><text y="70" class="big">12</text><text y="96" class="lbl">Longest Streak</text><text y="118" class="sub">ends May 09, 2025</text></g></g>
+</svg>

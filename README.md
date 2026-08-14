@@ -151,20 +151,23 @@ models              ░                               35
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frozensun47&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="98%" />
+  <img src="./assets/activity.svg" width="98%" alt="Contribution activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frozensun47&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frozensun47&theme=github-dark&hide_border=true" height="170" />
+  <img src="./assets/stats.svg" height="220" alt="GitHub stats" />
+  <img src="./assets/streak.svg" height="220" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozensun47&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Frozensun47&theme=github_dark&no-frame=true&no-bg=true&column=3&row=2&margin-w=8" height="150" />
+  <img src="./assets/langs.svg" height="180" alt="Most used languages" />
 </p>
 
-<sub align="center">⚠️ The cards above count public repositories only. The contribution graph on my profile reflects the private work too.</sub>
+<p align="center"><sub>
+  These cards are generated daily by <a href="./.github/workflows/stats.yml">a GitHub Action</a> in this repo
+  using my own token — so unlike the shared public card services they include private contributions,
+  and they can't go down when someone else's rate limit runs out.
+</sub></p>
 
 ---
 
