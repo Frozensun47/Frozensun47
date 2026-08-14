@@ -109,6 +109,18 @@ models              ░                               35
 
 ---
 
+## 🤝 Selected Collaborations
+
+Work I've contributed to outside my own repos. Commit counts are mine.
+
+| Project | Role | Commits |
+| :--- | :--- | ---: |
+| **[AllWell](https://github.com/lochanchugh/AllWell)** · Swift | On-device AI wellness companion for macOS & iOS | 24 |
+| **HealthyMode** · Swift *(private)* | Health-tracking companion app | 22 |
+| **Virtual Hair Try-On** · Python *(private)* | Stable Diffusion + LoRA try-on with template-based pose alignment — the KeshcutAI work | 31 |
+
+<sub>Repos marked *private* belong to their owners, so there's no public link to give. They show up in my contribution graph rather than as repositories.</sub>
+
 ## 🛠 Tech Stack
 
 <p align="center">
