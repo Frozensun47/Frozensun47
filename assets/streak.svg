@@ -6,8 +6,7 @@
   .lbl { font:600 13px 'Segoe UI',Ubuntu,sans-serif; fill:var(--fg); text-anchor:middle; }
   .lbl.hotlbl { fill:var(--hot); }
   .sub { font:400 10px 'Segoe UI',Ubuntu,sans-serif; fill:var(--dim); text-anchor:middle; }
-  .ring { stroke-dasharray:238.8; stroke-dashoffset:0; animation:g 1.5s ease-out forwards; }
-  @keyframes g { from { stroke-dashoffset:238.8; } to { stroke-dashoffset:0; } }
+  .ring { stroke-dasharray:238.8; stroke-dashoffset:0; }
 </style>
 <rect x=".5" y=".5" width="479" height="219" rx="6" fill="var(--bg)" stroke="var(--bd)"/>
 <line x1="160" y1="42" x2="160" y2="178" stroke="var(--bd)"/>

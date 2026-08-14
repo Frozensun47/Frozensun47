@@ -196,10 +196,10 @@ def card_stats(s, sk):
   .val {{ font:600 13px 'Segoe UI',Ubuntu,sans-serif; fill:var(--lbl); text-anchor:end; }}
   .rank {{ font:800 26px 'Segoe UI',Ubuntu,sans-serif; fill:var(--rk); text-anchor:middle; }}
   .rankpct {{ font:400 10px 'Segoe UI',Ubuntu,sans-serif; fill:var(--lbl); text-anchor:middle; opacity:.75; }}
-  /* Base state is the FINAL state so the card is correct even where CSS
-     animation does not run (static renderers, some proxies). */
-  .ring {{ stroke-dasharray:{circ:.1f}; stroke-dashoffset:{offset:.1f}; animation:grow 1.4s ease-out forwards; }}
-  @keyframes grow {{ from {{ stroke-dashoffset:{circ:.1f}; }} to {{ stroke-dashoffset:{offset:.1f}; }} }}
+  /* Deliberately static: GitHub serves README images through a proxy that
+     does not reliably run CSS animation, so everything is drawn in its
+     final state rather than animated into view. */
+  .ring {{ stroke-dasharray:{circ:.1f}; stroke-dashoffset:{offset:.1f}; }}
 </style>
 <rect x=".5" y=".5" width="479" height="219" rx="6" fill="var(--bg)" stroke="var(--bd)"/>
 <g transform="translate(25,32)"><text class="title">{s['name']}'s GitHub Stats</text>{''.join(body)}</g>
@@ -244,8 +244,7 @@ def card_streak(s, sk):
   .lbl {{ font:600 13px 'Segoe UI',Ubuntu,sans-serif; fill:var(--fg); text-anchor:middle; }}
   .lbl.hotlbl {{ fill:var(--hot); }}
   .sub {{ font:400 10px 'Segoe UI',Ubuntu,sans-serif; fill:var(--dim); text-anchor:middle; }}
-  .ring {{ stroke-dasharray:{circ:.1f}; stroke-dashoffset:0; animation:g 1.5s ease-out forwards; }}
-  @keyframes g {{ from {{ stroke-dashoffset:{circ:.1f}; }} to {{ stroke-dashoffset:0; }} }}
+  .ring {{ stroke-dasharray:{circ:.1f}; stroke-dashoffset:0; }}
 </style>
 <rect x=".5" y=".5" width="479" height="219" rx="6" fill="var(--bg)" stroke="var(--bd)"/>
 <line x1="160" y1="42" x2="160" y2="178" stroke="var(--bd)"/>
@@ -315,8 +314,7 @@ def card_activity(s, weeks=53):
   .sub {{ font:400 11px 'Segoe UI',Ubuntu,sans-serif; fill:var(--dim); }}
   .ax {{ font:400 10px 'Segoe UI',Ubuntu,sans-serif; fill:var(--dim); }}
   .ln {{ stroke:var(--ln); stroke-width:2.5; fill:none; stroke-linecap:round; stroke-linejoin:round;
-        stroke-dasharray:4000; stroke-dashoffset:0; animation:draw 2.2s ease-out forwards; }}
-  @keyframes draw {{ from {{ stroke-dashoffset:4000; }} to {{ stroke-dashoffset:0; }} }}
+        }}
   .ar {{ fill:url(#g); }}
 </style>
 <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
