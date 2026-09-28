@@ -24,32 +24,6 @@ I build **end-to-end computer vision systems** — from training custom Vision T
 
 ---
 
-<details>
-<summary><b>📊 Where my commits actually go</b> — click to expand</summary>
-
-<br/>
-
-Last 12 months, by repository — the long tail of a system you own end to end:
-
-```text
-Server_Production   ████████████████████████████  1279
-Server              █████████                      405
-Error_Detector      ████████                       388
-Server_utils        ██████                         271
-Swing_Tracer        ████                           204
-Phase_Estimator     ████                           184
-golfwiz_android     ███                            158
-Dashboard-frontend  ███                            151
-Dashboard-server    ███                            137
-db                  █                               81
-golfwiz-ios-app     █                               72
-models              ░                               35
-```
-
-</details>
-
----
-
 ## 🤝 Selected Collaborations
 
 Work I've contributed to outside my own repos. Commit counts are mine.
